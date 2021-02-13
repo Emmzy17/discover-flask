@@ -30,7 +30,7 @@ Please help us keep this free, open source project going. Purchase the [Real Pyt
 | 3    | [User Authentication](http://youtu.be/BnBjhmspw4c) | [part3](https://github.com/realpython/discover-flask/tree/part3) |
 | 4    | [Template Inheritance](http://youtu.be/hNzruwVPtCE) | [part4](https://github.com/realpython/discover-flask/tree/part4) |
 | 5    | [Databases](http://youtu.be/_vrAjAHhUsA) | [part5](https://github.com/realpython/discover-flask/tree/part5) |
-| 6    | [List Comprehensions](http://youtu.be/WqmqNC8Teeo) | N/A |
+| 6    | [List Comprehensions](http://youtu.be/WqmqNC8Teeo) | part6 |
 | 7    | [Unit Tests](http://youtu.be/1aHNs1aEATg) | [part7](https://github.com/realpython/discover-flask/tree/part7) |
 | 8    | [Deploying to Heroku](http://youtu.be/L9uD74nHvFY) | [part8](https://github.com/realpython/discover-flask/tree/part8) |
 | 9    | [SQLAlchemy](https://www.youtube.com/watch?v=kuyrL6krkwA) | [part9](https://github.com/realpython/discover-flask/tree/part9) |
